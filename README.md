@@ -1,8 +1,5 @@
 # Task-Manager
 
-# Task Manager Php code
-
-
 Note: To run this app on a web browser you will need to
 
 - Install Xamp Server on your laptop/PC
